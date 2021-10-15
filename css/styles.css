@@ -47,6 +47,38 @@ p {
   line-height: 2;
 }
 
+.java {
+  width: 175px;
+}
+
+.c {
+  border-radius: 50%;
+  width: 175px;
+}
+.react {
+  width: 250px;
+}
+.github {
+  border-radius: 50%;
+  width: 175px;
+}
+
+.javascript {
+  width: 270px;
+}
+
+.html {
+  width: 140px;
+}
+
+.css {
+  width: 175px;
+}
+
+.node {
+  width: 175px;
+}
+
 .contact-message {
   width: 40%;
   margin: 40px auto 60px;
@@ -63,7 +95,7 @@ p {
   margin-top: 10px;
   border-radius: 50%;
   width: 25%;
-  float: left;
+  /* float: left; */
   margin-right: 30px;
 }
 
